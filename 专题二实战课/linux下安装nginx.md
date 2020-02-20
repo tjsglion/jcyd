@@ -95,7 +95,7 @@
           vi nginx.conf
 
           #pid logs/nginx.pid 改成
-          pid /usr/local/nginx/logs/nginx/pid;
+          pid /usr/local/nginx/logs/nginx.pid;
 
 ### 5. 设置nginx开机启动
 
